@@ -14,3 +14,8 @@
 ![ ](https://github.com/Nassts/hw6/blob/master/sketchq1.jpg)
 ![ ](https://github.com/Nassts/hw6/blob/master/sketchq2.jpg)
 Задание 2
+
+Прилагаю скрин запроса и скрин результата.
+![ ](https://github.com/Nassts/hw6/blob/master/diffv1.jpg)
+![ ](https://github.com/Nassts/hw6/blob/master/diffv2.jpg)
+На основе полученных результатов мы можем сделать вывод о том, что существуют дополнения, употребляемые либо с двумя глаголами, либо с одним из них. Так, например, слово *answer* может употребляться и с find, и с discover. Однако, слово *solution* используется лишь в сочетании с find, а слово *extent* - с discover.
