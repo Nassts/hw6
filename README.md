@@ -21,3 +21,7 @@
 На основе полученных результатов мы можем сделать вывод о том, что существуют дополнения, употребляемые либо с двумя глаголами, либо с одним из них. Так, например, слово *answer* может употребляться и с find, и с discover. Однако, слово *solution* используется лишь в сочетании с find, а слово *extent* - с discover.
 
 Задание 3
+Для выполнения этого задания нужно было зайти в раздел Trends и выбрать слово для сравнения указанной частоты его использования по данным Ngram Viewer и Sketch Engine. И мой выбор пал на слово *archaeology*
+![ ](https://github.com/Nassts/hw6/blob/master/trends1.jpg)
+![ ](https://github.com/Nassts/hw6/blob/master/trends2.jpg)
+![ ](https://github.com/Nassts/hw6/blob/master/ngv3.jpg)
